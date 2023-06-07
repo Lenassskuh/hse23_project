@@ -15,5 +15,5 @@
 ## Выравнивание
 
 ### H2A
-[1](https://github.com/Lenassskuh/hse23_project/blob/main/1mega.png)
+(1)[https://github.com/Lenassskuh/hse23_project/blob/main/1mega.png]
 
