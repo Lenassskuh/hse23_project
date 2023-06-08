@@ -47,4 +47,12 @@
 А далее прологарифмировала её:
 ![6](https://github.com/Lenassskuh/hse23_project/blob/main/table_log.png)
 
+## Heatmap
+
+ Составила тепловую карту (код есть в [ноутбуке](https://colab.research.google.com/drive/1-IMnt58RqVIXqCV8_ygEzbS4A2NUZW_b?usp=sharing))
+ ![7](https://github.com/Lenassskuh/hse23_project/commit/07d1b9c47b8fb601a0bd407620ff442f6a5b783d)
+
+ 
+
+
 
