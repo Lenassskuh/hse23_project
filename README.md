@@ -15,5 +15,36 @@
 ## Выравнивание
 
 ### H2A
-(1)[https://github.com/Lenassskuh/hse23_project/blob/main/1mega.png]
+![1](https://github.com/Lenassskuh/hse23_project/blob/main/4mega.png)
+
+Между последовательностями есть различия, но их мало. Таким образом, можем взять любой гистон
+
+
+### H2B
+![2](https://github.com/Lenassskuh/hse23_project/blob/main/3mega.png)
+
+Между последовательностями есть различия, но их мало. Таким образом, можем взять любой гистон
+
+### H3
+![3](https://github.com/Lenassskuh/hse23_project/blob/main/2mega.png)
+
+Между последовательностями почти нет различий. Таким образом, можем взять любой гистон
+
+### H4
+![4](https://github.com/Lenassskuh/hse23_project/blob/main/1mega.png)
+
+Между последовательностями почти нет различий. Таким образом, можем взять любой гистон
+
+## BLAST
+
+Далее работа проводилась в putty c помощью blast. Все полученные файлы вы можете найти на сервере в папке project_23. 
+
+## Таблицы
+
+Исходя из полученных данных я составила таблицу 
+![5](https://github.com/Lenassskuh/hse23_project/blob/main/table.png)
+
+А далее прологарифмировала её:
+![6](https://github.com/Lenassskuh/hse23_project/blob/main/table_log.png)
+
 
