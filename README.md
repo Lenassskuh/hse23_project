@@ -50,9 +50,13 @@
 ## Heatmap
 
  Составила тепловую карту (код есть в [ноутбуке](https://colab.research.google.com/drive/1-IMnt58RqVIXqCV8_ygEzbS4A2NUZW_b?usp=sharing))
+ 
  ![7](https://github.com/Lenassskuh/hse23_project/blob/main/heatmap.png)
 
  
+## Результаты 
+
+В каком-то виде KDM7A начинает проявляться уже у yeast, однако совсем явно заметен у zebrafish
 
 
 
