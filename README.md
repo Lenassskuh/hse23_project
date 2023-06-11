@@ -12,6 +12,8 @@
 
 *Домены*: JHD, PHD_KDM7, JmjC, cupin_RmlC-like super family
 
+*Сайты*: https://www.uniprot.org/uniprotkb/Q6ZMT4/entry и https://pubmed.ncbi.nlm.nih.gov/26688070/
+
 ## Выравнивание
 
 ### H2A
